@@ -1,0 +1,15 @@
+#overlay {
+    width: 100vw;
+    height: 100vh;
+    z-index: 10;
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    display: inline;
+}
+.obs {
+    padding-left: 10px;
+}
