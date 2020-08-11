@@ -1,3 +1,23 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+h2 {
+    padding-bottom: 50px;
+    text-align: center;
+    padding: 0 10px 0 10px;
+}
+
 #overlay {
     width: 100vw;
     height: 100vh;
